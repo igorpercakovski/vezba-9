@@ -1,0 +1,4 @@
+So JSON generatorgo generirame zadadeniot kod. Potoa so JSON splitter gi podeliv vrednostite od age
+za podocna so filter gi isfiltriram samo tie so pomalku od 30 god.
+so snap Sort gi podreduvame po godini rastecki, i na krajot so Mapper go smenavme imeto od Name vo Member Name
+(za MemberPhoneNumber ne mi bese jasno sto se bara) 
