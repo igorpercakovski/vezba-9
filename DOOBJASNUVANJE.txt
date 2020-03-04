@@ -1,1 +1,0 @@
-moze i mnogu poednostavno da se isfiltriraat podatocite so navigacija jsonPath($, "$MemberList[?(value.Age<30)].Name")
